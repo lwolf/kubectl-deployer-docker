@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM alpine:3.6
 
 MAINTAINER Sergii Nuzhdin <ipaq.lw@gmail.com@gmail.com>
 
