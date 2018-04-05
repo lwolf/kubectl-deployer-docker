@@ -2,7 +2,7 @@ FROM alpine:3.6
 
 MAINTAINER Sergii Nuzhdin <ipaq.lw@gmail.com@gmail.com>
 
-ENV KUBE_LATEST_VERSION="v1.6.4"
+ENV KUBE_LATEST_VERSION="v1.8.9"
 
 RUN apk add --update ca-certificates \
  && apk add --update -t deps curl \
